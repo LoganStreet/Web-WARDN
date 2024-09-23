@@ -17,5 +17,3 @@ WARDN Scan is working to implement other security features for users, such as:
 - AI detection
 
 The design of the web app is basic and only offers the user a text box to insert the file or text, creating less distraction for the user.
-
-The design was modeled around OpenAI’s chatgpt slick app design
