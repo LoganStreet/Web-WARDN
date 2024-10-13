@@ -1,4 +1,4 @@
-# Web-WARDN
+# Web-WARDN WIP
 WARDN Scan is a user-friendly cybersecurity project that leverages a powerful API scanner to detect malware in files. This tool is designed to enhance digital security by providing quick and efficient malware detection capabilities.
 
 Key features of WARDN Scan include:
